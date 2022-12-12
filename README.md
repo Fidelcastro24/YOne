@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/Fidelcastro24/YOne/stargazers"><img src="https://img.shields.io/github/stars/noob-kittu/YoneRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/Fidelcastro24/YOne/stargazers"><img src="https://img.shields.io/github/stars/Fidelcastro24/YOne?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/Fidelcastro24/YOne"> <img src="https://img.shields.io/github/repo-size/Fidelcastro24/YOne?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
